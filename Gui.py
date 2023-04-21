@@ -11,7 +11,7 @@ class Window():
         self.method = method
         self.root = tk.Tk()
         self.way = None
-        self.root.title("Near_neighbor")
+        self.root.title("ants")
         self.__active_node = None
         self.waylen = -1
     
